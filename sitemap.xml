@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/03/15/ThinkPHP-5-0%E5%BC%80%E5%8F%91%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%95%86%E5%9C%BA%E6%89%93%E9%80%9A%E5%85%A8%E6%A0%88%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84/</loc>
+    
+    <lastmod>2018-03-15T10:32:10.864Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/03/15/%E7%9F%A5%E4%B9%8E%E5%A5%BD%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</loc>
+    
+    <lastmod>2018-03-15T08:00:49.149Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/404.html</loc>
     
     <lastmod>2018-03-12T08:22:05.313Z</lastmod>
