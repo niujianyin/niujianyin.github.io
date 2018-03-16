@@ -264,6 +264,246 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/03/16/配置码云SSH/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Niu Jianyin">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Hexo">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2018/03/16/配置码云SSH/" itemprop="url">配置码云SSH</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-03-16T10:57:58+08:00">
+                2018-03-16
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <h3 id="码云SSH设置-使用码云"><a href="#码云SSH设置-使用码云" class="headerlink" title="码云SSH设置 使用码云"></a>码云SSH设置 <a href="https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00150154460073692d151e784de4d718c67ce836f72c7c4000" target="_blank" rel="noopener">使用码云</a></h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">$ ssh-keygen -t rsa -C <span class="string">"714074509@qq.com"</span></span><br><span class="line">$ 三个回车，保存到 <span class="built_in">cd</span> ~/.ssh/id_rsa.pub  放到github和gitee的ssh中</span><br><span class="line">$ ssh -T git@gitee.com</span><br><span class="line">$ ssh -T git@github.com</span><br><span class="line">$ 有本地库</span><br><span class="line">$ git remote add github git@github.com:niujianyin/test.git //关联github远程库</span><br><span class="line">$ git remote -v // 查看远程信息</span><br><span class="line">$ git push origin master -f // 强行让本地分支覆盖远程分支</span><br><span class="line">$</span><br><span class="line">$</span><br><span class="line">$ 以下是使用自定义gitee_rsa,默认是id_rsa</span><br><span class="line">$ ssh-keygen -t rsa -C <span class="string">"niujianyin@gitee.com"</span></span><br><span class="line">$ gitee_rsa</span><br><span class="line">$ 空格（不输入密码）</span><br><span class="line">$ https://gitee.com/profile/sshkeys  把~/.ssh/gitee_rsa.pub公钥内容复制并粘贴</span><br><span class="line">$ ssh-add ~/.ssh/gitee_rsa //添加本地私钥 Identity added;sshkey放进系统</span><br><span class="line">$ ssh -T git@gitee.com  // Welcome to Gitee.com, niujianyin!</span><br></pre></td></tr></table></figure>
+<p>cd ~/.ssh/<br>id_rsa.pub <a href="mailto:714074509@qq.com" target="_blank" rel="noopener">714074509@qq.com</a>  放了github的ssh<br>gitee_rsa.pub <a href="mailto:niujianyin@gitee.com" target="_blank" rel="noopener">niujianyin@gitee.com</a>  放了gitee的ssh</p>
+
+          
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/03/16/新浪彩通项目/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Niu Jianyin">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Hexo">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2018/03/16/新浪彩通项目/" itemprop="url">新浪彩通项目</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2018-03-16T09:48:00+08:00">
+                2018-03-16
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            
+          
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/2018/03/15/知乎好技术文章/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -593,7 +833,7 @@ $ Route::rule(&apos;hello&apos;,&apos;sample/Test/hello&apos;,&apos;GET|POST&apo
       
         
           
-            <h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new post <span class="string">"article title"</span></span><br><span class="line">$ hexo g   // 生成</span><br><span class="line">$ hexo d   // 部署</span><br><span class="line">$ hexo s   // 本地服务</span><br></pre></td></tr></table></figure>
+            <h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new post <span class="string">"article title"</span></span><br><span class="line">$ hexo g   // 生成</span><br><span class="line">$ hexo d   // 部署</span><br><span class="line">$ hexo s   // 本地服务</span><br><span class="line">$ hexo d -g // 生成部署</span><br></pre></td></tr></table></figure>
 
           
         
@@ -807,7 +1047,7 @@ $ Route::rule(&apos;hello&apos;,&apos;sample/Test/hello&apos;,&apos;GET|POST&apo
               
                 <a href="/archives/">
               
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">6</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
