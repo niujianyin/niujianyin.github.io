@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-06T10:09:53.481Z</updated>
+  <updated>2018-05-21T08:03:10.214Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,92 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端规范</title>
+    <link href="http://yoursite.com/2018/05/21/%E5%89%8D%E7%AB%AF%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83/"/>
+    <id>http://yoursite.com/2018/05/21/前端编码规范/</id>
+    <published>2018-05-21T08:02:35.000Z</published>
+    <updated>2018-05-21T08:03:10.214Z</updated>
+    
+    <content type="html"><![CDATA[<p>CSS/HTML 编码规范：（<a href="http://codeguide.co/）中文：http://zoomzhao.github.io/code-guide/" target="_blank" rel="noopener">http://codeguide.co/）中文：http://zoomzhao.github.io/code-guide/</a></p><p>JavaScript 编码规范：（<a href="https://standardjs.com/rules.html）中文：https://standardjs.com/rules-zhcn.html" target="_blank" rel="noopener">https://standardjs.com/rules.html）中文：https://standardjs.com/rules-zhcn.html</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;CSS/HTML 编码规范：（&lt;a href=&quot;http://codeguide.co/）中文：http://zoomzhao.github.io/code-guide/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;http://codeguide.co
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>mac</title>
+    <link href="http://yoursite.com/2018/05/20/mac/"/>
+    <id>http://yoursite.com/2018/05/20/mac/</id>
+    <published>2018-05-20T09:49:30.000Z</published>
+    <updated>2018-05-20T09:50:07.357Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.ifanr.com/app/699275" target="_blank" rel="noopener">7 款 Mac 窗口管理利器推荐，任务再多也不乱</a>  Spectacle</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://www.ifanr.com/app/699275&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;7 款 Mac 窗口管理利器推荐，任务再多也不乱&lt;/a&gt;  Spectacle&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>stylus.js</title>
+    <link href="http://yoursite.com/2018/05/11/stylus/"/>
+    <id>http://yoursite.com/2018/05/11/stylus/</id>
+    <published>2018-05-11T09:27:14.000Z</published>
+    <updated>2018-05-20T09:48:58.561Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="http://www.zhangxinxu.com/jq/stylus/interpolation.php" target="_blank" rel="noopener">stylus中文版参考文档之插值</a></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">.ic_nav_home&#123;</span><br><span class="line">  background-image: url(../../../static/img/sprites_ic_nav.png);</span><br><span class="line">  background-position: -304px -502px;</span><br><span class="line">  background-size: 630px 630px</span><br><span class="line">&#125;</span><br><span class="line">// 背景图片</span><br><span class="line">bg-image($class)</span><br><span class="line">  @extend &#123;$class&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;http://www.zhangxinxu.com/jq/stylus/interpolation.php&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;stylus中文版参考文档之插值&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&quot;hi
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>phaser.js</title>
+    <link href="http://yoursite.com/2018/05/09/h5%E5%B0%8F%E6%B8%B8%E6%88%8Fphaser/"/>
+    <id>http://yoursite.com/2018/05/09/h5小游戏phaser/</id>
+    <published>2018-05-09T10:11:00.000Z</published>
+    <updated>2018-05-10T03:07:11.799Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.phaser-china.com/example.html" target="_blank" rel="noopener">phaser小站</a><br><a href="https://github.com/yuwanli/phaser-collection" target="_blank" rel="noopener">phaser h5小游戏项目集锦</a><br><a href="http://www.phaserengine.com/" target="_blank" rel="noopener">Phaser简单，有趣，免费开源的HTML5游戏框架</a></p><p><a href="https://github.com/gkajs/gka" target="_blank" rel="noopener">gka 是一款简单的、高效的帧动画生成工具，图片处理工具。</a><br><a href="http://www.sohu.com/a/158181897_500651" target="_blank" rel="noopener">使用 gka 一键生成帧动画</a></p><p><a href="https://blog.csdn.net/qq_25804071/article/details/76796012" target="_blank" rel="noopener">shoeBox超实用的雪碧图（Sprite）图制作工具</a><br><a href="http://childhood.logdown.com/posts/190580/-details-using-shoebox-produce-bitmap-fonts" target="_blank" rel="noopener">详解利用ShoeBox制作位图字体</a></p><p>备选:<br><a href="http://www.createjs.cc/" target="_blank" rel="noopener">CreateJS是基于HTML5开发的一套模块化的库和工具。基于这些库，可以非常快捷地开发出基于HTML5的游戏、动画和交互应用。</a><br><a href="http://www.createjs.cc/easeljs/" target="_blank" rel="noopener">EaselJS 具有丰富的图形和HTML5画布互动工作提供直接的解决方案。</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;a href=&quot;https://www.phaser-china.com/example.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;phaser小站&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://github.com/yuwanli/ph
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>VSCode</title>
@@ -42,7 +128,7 @@
     <link href="http://yoursite.com/2018/05/06/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F/"/>
     <id>http://yoursite.com/2018/05/06/微信小游戏/</id>
     <published>2018-05-06T09:05:16.000Z</published>
-    <updated>2018-05-06T09:07:40.935Z</updated>
+    <updated>2018-05-09T10:10:32.639Z</updated>
     
     <content type="html"><![CDATA[<p><a href="https://developers.weixin.qq.com/minigame/dev/index.html" target="_blank" rel="noopener">小游戏开发API</a></p><p>Cocos：<a href="http://docs.cocos.com/creator/manual/zh/publish/publish-wechatgame.html" target="_blank" rel="noopener">http://docs.cocos.com/creator/manual/zh/publish/publish-wechatgame.html</a><br>Egret：<a href="http://developer.egret.com/cn/github/egret-docs/Engine2D/minigame/introduction/index.html" target="_blank" rel="noopener">http://developer.egret.com/cn/github/egret-docs/Engine2D/minigame/introduction/index.html</a><br>LayaBox：<a href="https://ldc.layabox.com/doc/?nav=zh-as-5-0-1" target="_blank" rel="noopener">https://ldc.layabox.com/doc/?nav=zh-as-5-0-1</a></p><p><a href="~/study/imooc/wx-game">本地微信小游戏</a><br><a href="~/study/imooc/cocos">本地Cocos</a></p>]]></content>
     
@@ -351,93 +437,6 @@
       
       
         &lt;p&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/25654664&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;合格前端系列第一弹-跨域&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://blog.csdn.net/ligang2
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>初探 Nuxt.js 秘密花园</title>
-    <link href="http://yoursite.com/2018/04/04/%E5%88%9D%E6%8E%A2-Nuxt-js-%E7%A7%98%E5%AF%86%E8%8A%B1%E5%9B%AD/"/>
-    <id>http://yoursite.com/2018/04/04/初探-Nuxt-js-秘密花园/</id>
-    <published>2018-04-04T01:53:20.000Z</published>
-    <updated>2018-04-04T02:57:03.853Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://zhuanlan.zhihu.com/p/35280019" target="_blank" rel="noopener">合格前端系列第十一弹-初探 Nuxt.js 秘密花园</a><br><a href="https://zh.nuxtjs.org/guide" target="_blank" rel="noopener">关于 Nuxt.js</a><br><a href="https://segmentfault.com/a/1190000012849210" target="_blank" rel="noopener">Vue-Meta</a><br><a href="https://segmentfault.com/a/1190000012802572" target="_blank" rel="noopener">Nuxt.js实战</a><br><a href="https://www.cnblogs.com/MuYunyun/p/6082359.html" target="_blank" rel="noopener">如何用Github的gh-pages分支展示自己的项目</a><br><a href="http://tengine.taobao.org/book/chapter_05.html" target="_blank" rel="noopener">nginx模块开发篇 upstream模块</a></p><p><a href="https://zhuanlan.zhihu.com/p/25654664" target="_blank" rel="noopener">合格前端系列第一弹-跨域</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;a href=&quot;https://zhuanlan.zhihu.com/p/35280019&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;合格前端系列第十一弹-初探 Nuxt.js 秘密花园&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://zh.nuxt
-      
-    
-    </summary>
-    
-    
-      <category term="知乎" scheme="http://yoursite.com/tags/%E7%9F%A5%E4%B9%8E/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>vue 优秀项目</title>
-    <link href="http://yoursite.com/2018/03/21/vue-%E4%BC%98%E7%A7%80%E9%A1%B9%E7%9B%AE/"/>
-    <id>http://yoursite.com/2018/03/21/vue-优秀项目/</id>
-    <published>2018-03-21T03:27:58.000Z</published>
-    <updated>2018-04-04T01:53:46.636Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://github.com/hzzly/xyy-vue" target="_blank" rel="noopener">xyy-vue</a><br>一个集运动、锻炼、出游、交友、社交为一体的非常新颖的针对大学生的平台。旨在让现在的大学生抛开过去枯燥乏味、单一的生活方式，去认识更多的朋友、扩展自己的人脉圈，属个人项目。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;a href=&quot;https://github.com/hzzly/xyy-vue&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;xyy-vue&lt;/a&gt;&lt;br&gt;一个集运动、锻炼、出游、交友、社交为一体的非常新颖的针对大学生的平台。旨在让现在的大学生抛开过去
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>新浪球通(新浪彩票付费阅读平台)</title>
-    <link href="http://yoursite.com/2018/03/20/%E6%96%B0%E6%B5%AA%E7%90%83%E9%80%9A/"/>
-    <id>http://yoursite.com/2018/03/20/新浪球通/</id>
-    <published>2018-03-20T08:39:27.000Z</published>
-    <updated>2018-04-13T07:29:34.785Z</updated>
-    
-    <content type="html"><![CDATA[<p>新浪球通(新浪彩票付费阅读平台)发布流程wiki:<br><a href="http://wiki.intra.sina.com.cn/pages/viewpage.action?pageId=164495750" target="_blank" rel="noopener">http://wiki.intra.sina.com.cn/pages/viewpage.action?pageId=164495750</a></p><h2 id="线上地址"><a href="#线上地址" class="headerlink" title="线上地址"></a>线上地址</h2><p>后台登陆地址：<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=backstage_login" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=backstage_login</a><br>后台地址：<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=backstage_index" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=backstage_index</a><br>专家后台文章预览地址:<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=preview&amp;news_id=N1803131504555355726" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=preview&amp;news_id=N1803131504555355726</a><br>移动端文章预览地址:<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=previewWap&amp;news_id=N1803131504555355726" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=previewWap&amp;news_id=N1803131504555355726</a><br>彩通后台审核文章预览地址:previewAdmin 斯哲部署 (测试地址:<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=previewAdmin&amp;news_id=N1803131504555355726" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=previewAdmin&amp;news_id=N1803131504555355726</a>)</p><p>首页:<a href="http://lottery.sina.com.cn/qiutong/" target="_blank" rel="noopener">http://lottery.sina.com.cn/qiutong/</a><br>专家详情页:<a href="http://lottery.sina.com.cn/qiutong/expertDetail.shtml?expert_id=195292778610" target="_blank" rel="noopener">http://lottery.sina.com.cn/qiutong/expertDetail.shtml?expert_id=195292778610</a><br>文章详情页:<a href="http://lottery.sina.com.cn/qiutong/article.shtml?news_id=N1803291415461533096" target="_blank" rel="noopener">http://lottery.sina.com.cn/qiutong/article.shtml?news_id=N1803291415461533096</a><br>文章支付:<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=articlePay&amp;pdtIds=expdoc-N1803291415461533096" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=articlePay&amp;pdtIds=expdoc-N1803291415461533096</a><br>文章支付成功回调页面:<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=success" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=success</a><br>个人中心页-我的比赛:<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=account" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=account</a><br>个人中心页-我的方案:<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=account&amp;is_plan=1" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=account&amp;is_plan=1</a><br>订单页-我的订单:<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=order" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=order</a><br>订单页-消费记录:<a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=order&amp;is_record=1" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=order&amp;is_record=1</a></p><h2 id="py命令-配置-conf文件夹下"><a href="#py命令-配置-conf文件夹下" class="headerlink" title="py命令 配置.conf文件夹下"></a>py命令 配置.conf文件夹下</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">cd .conf</span><br><span class="line"># 生成dll动态链接库文件,对第三方库的打包</span><br><span class="line">dll.sh </span><br><span class="line"># 发布正式文件资源</span><br><span class="line">zpublish.py</span><br><span class="line"># 发布测试文件资源</span><br><span class="line">ztest.py</span><br><span class="line"># 启动yangxing为前缀的api本地服务</span><br><span class="line">zyangxing.py</span><br></pre></td></tr></table></figure><h2 id="新浪球通文件资源上传如下-0-2步骤执行-conf-zpublish-py-完成"><a href="#新浪球通文件资源上传如下-0-2步骤执行-conf-zpublish-py-完成" class="headerlink" title="新浪球通文件资源上传如下: 0-2步骤执行 .conf/zpublish.py 完成"></a>新浪球通文件资源上传如下: 0-2步骤执行 .conf/zpublish.py 完成</h2><p>0.api/config 修改环境变量let env = ‘’<br>1.npm run build –report<br>2.把 dist（/Users/njy/workspace/github/2018/04/sina-expert-platform/dist）下文件放到 ballbest（本地svn） (/Users/njy/workspace/svn/web/ballbest/v1/pc)<br>3.文件上传SVN地址 <a href="https://caitong_niujianyin@svn1.intra.sina.com.cn/nostaff_caitong/front_dev/web/ballbest/v1/pc" target="_blank" rel="noopener">https://caitong_niujianyin@svn1.intra.sina.com.cn/nostaff_caitong/front_dev/web/ballbest/v1/pc</a><br>4.cms（<a href="http://cms.pub.sina.com.cn/#file）" target="_blank" rel="noopener">http://cms.pub.sina.com.cn/#file）</a> 选择新浪球通，选择SVN文件同步(<a href="https://caitong_niujianyin@svn1.intra.sina.com.cn/nostaff_caitong/front_dev/web/ballbest/" target="_blank" rel="noopener">https://caitong_niujianyin@svn1.intra.sina.com.cn/nostaff_caitong/front_dev/web/ballbest/</a>)<br>上传后文件cms地址举例:<a href="http://n.sinaimg.cn/sports/ballbest/v1/pc/js/vendor.js" target="_blank" rel="noopener">http://n.sinaimg.cn/sports/ballbest/v1/pc/js/vendor.js</a></p><h2 id="新浪球通页面部署如下-0-2步骤执行-conf-zpublish-py-完成"><a href="#新浪球通页面部署如下-0-2步骤执行-conf-zpublish-py-完成" class="headerlink" title="新浪球通页面部署如下: 0-2步骤执行 .conf/zpublish.py 完成"></a>新浪球通页面部署如下: 0-2步骤执行 .conf/zpublish.py 完成</h2><p>0.每次生成的js,css有hash，来防止缓存，页面都的重新发布<br>1.在match.lottery.sina.com.cn域名下部署html<br>2.把 dist（/Users/njy/workspace/github/2018/04/sina-expert-platform/dist）下html文件放到 templates (/Users/njy/workspace/svn/deploy/ballbest/templates)<br>3.文件上传SVN地址 <a href="https://caitong_niujianyin@svn1.intra.sina.com.cn/nostaff_caitong/dev/web/match_lottery/app/ballbest/templates" target="_blank" rel="noopener">https://caitong_niujianyin@svn1.intra.sina.com.cn/nostaff_caitong/dev/web/match_lottery/app/ballbest/templates</a><br>4.登录代码部署系统 <a href="https://svnpub.intra.sina.com.cn/index_p.php?project_id=560" target="_blank" rel="noopener">https://svnpub.intra.sina.com.cn/index_p.php?project_id=560</a><br>选择 app/ballbest/templates 选择文件发布部署<br>部署后页面访问路径如下:<br><a href="http://match.lottery.sina.com.cn/ballbest/index/render?__t__=articlePay&amp;pdtIds=expdoc-N1803291415461533096" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ballbest/index/render?__t__=articlePay&amp;pdtIds=expdoc-N1803291415461533096</a><br>// 如需配置访问地址转换，找后台配置 如:<a href="http://match.lottery.sina.com.cn/ai/account/" target="_blank" rel="noopener">http://match.lottery.sina.com.cn/ai/account/</a></p><p>##测试发布如上</p><h1 id="发布测试文件资源-conf-ztest-py"><a href="#发布测试文件资源-conf-ztest-py" class="headerlink" title="发布测试文件资源 .conf/ztest.py"></a>发布测试文件资源 .conf/ztest.py</h1><p>css,js等文件资源上传SVN地址: <a href="https://caitong_niujianyin@svn1.intra.sina.com.cn/nostaff_caitong/front_dev/web/ballbest/test/pc" target="_blank" rel="noopener">https://caitong_niujianyin@svn1.intra.sina.com.cn/nostaff_caitong/front_dev/web/ballbest/test/pc</a><br>html文件资源上传SVN地址: <a href="https://caitong_niujianyin@svn1.intra.sina.com.cn/nostaff_caitong/dev/web/match_lottery/app/test/templates" target="_blank" rel="noopener">https://caitong_niujianyin@svn1.intra.sina.com.cn/nostaff_caitong/dev/web/match_lottery/app/test/templates</a></p><h2 id="svn工具-Cornerstone-配置如下-checkout-代码到本地"><a href="#svn工具-Cornerstone-配置如下-checkout-代码到本地" class="headerlink" title="svn工具 Cornerstone 配置如下  checkout 代码到本地"></a>svn工具 Cornerstone 配置如下  checkout 代码到本地</h2><p>svn -&gt; HTTP Server -&gt; svn1.intra.sina.com.cn  nostaff_caitong/dev/web/match_lottery/app/default/templates<br>-&gt; caitong_niujianyin -&gt; password</p><p>bes域名下部署<br><a href="https://svnpub.intra.sina.com.cn/index_p.php?project_id=605" target="_blank" rel="noopener">https://svnpub.intra.sina.com.cn/index_p.php?project_id=605</a><br>(<a href="http://bes.caitong.sina.com.cn/?s=index&amp;a=render&amp;__t__=betting_emulator_ssq&amp;from=wrap" target="_blank" rel="noopener">http://bes.caitong.sina.com.cn/?s=index&amp;a=render&amp;__t__=betting_emulator_ssq&amp;from=wrap</a>)</p><p>新浪彩通后台管理系统:<br><a href="http://admin.data.caitong.sina.com.cn/?p=admin&amp;s=pao_member&amp;a=view" target="_blank" rel="noopener">http://admin.data.caitong.sina.com.cn/?p=admin&amp;s=pao_member&amp;a=view</a></p><h2 id="start"><a href="#start" class="headerlink" title="start"></a>start</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 因为启动了80接口所以要调用用户sudo权限</span></span><br><span class="line">sudo npm run dev</span><br></pre></td></tr></table></figure><h2 id="发布路径：配置config-build-assetsPublicPath"><a href="#发布路径：配置config-build-assetsPublicPath" class="headerlink" title="发布路径：配置config.build.assetsPublicPath"></a>发布路径：配置<code>config.build.assetsPublicPath</code></h2><p><code>assetsPublicPath: &#39;http://n.sinaimg.cn/sports/pao_pro/admin&#39;,</code></p><h2 id="技术选型"><a href="#技术选型" class="headerlink" title="技术选型"></a>技术选型</h2><ul><li>框架 vue+vueX</li><li>css预处理less</li><li>脚手架 vue-cli 增加less修改等</li><li>ui框架 element</li></ul><h2 id="需求wiki"><a href="#需求wiki" class="headerlink" title="需求wiki"></a>需求wiki</h2><p><a href="http://wiki.intra.sina.com.cn/pages/viewpage.action?pageId=152862838" target="_blank" rel="noopener">http://wiki.intra.sina.com.cn/pages/viewpage.action?pageId=152862838</a></p><h2 id="原型图"><a href="#原型图" class="headerlink" title="原型图"></a>原型图</h2><p><a href="https://konspv.axshare.com/#g=1&amp;p=%E5%90%8E%E5%8F%B0" target="_blank" rel="noopener">https://konspv.axshare.com/#g=1&amp;p=%E5%90%8E%E5%8F%B0</a></p><h2 id="接口wiki"><a href="#接口wiki" class="headerlink" title="接口wiki"></a>接口wiki</h2><p><a href="http://wiki.intra.sina.com.cn/pages/viewpage.action?pageId=157615557" target="_blank" rel="noopener">http://wiki.intra.sina.com.cn/pages/viewpage.action?pageId=157615557</a></p><h2 id="p0原型"><a href="#p0原型" class="headerlink" title="p0原型"></a>p0原型</h2><p><a href="https://amj0x7.axshare.com/" target="_blank" rel="noopener">https://amj0x7.axshare.com/</a></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><h3 id="在webpack-dev-server中加入配置："><a href="#在webpack-dev-server中加入配置：" class="headerlink" title="在webpack dev server中加入配置："></a>在webpack dev server中加入配置：</h3><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">devServer: &#123;</span><br><span class="line">clientLogLevel: <span class="string">'warning'</span>,</span><br><span class="line">disableHostCheck: <span class="literal">true</span>,<span class="comment">//关闭本地访问地址白名单</span></span><br><span class="line">historyApiFallback: &#123;</span><br><span class="line">rewrites: [</span><br><span class="line">&#123; <span class="attr">from</span>: <span class="regexp">/.*/</span>, <span class="attr">to</span>: path.posix.join(config.dev.assetsPublicPath, <span class="string">'index.html'</span>) &#125;,</span><br><span class="line">],</span><br><span class="line">&#125;,</span><br></pre></td></tr></table></figure><p>这样就可以用自定义的域名访问了。</p><h3 id="目录说明"><a href="#目录说明" class="headerlink" title="目录说明"></a>目录说明</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line">├── App.vue  <span class="comment">#外壳</span></span><br><span class="line">├── assets <span class="comment">#静态资源及自定义模块</span></span><br><span class="line">│   ├── common.less <span class="comment">#常规样式</span></span><br><span class="line">│   └── modules <span class="comment">#自定义模块</span></span><br><span class="line">├── components </span><br><span class="line">│   ├── 404.vue <span class="comment"># 404页面，暂时无用</span></span><br><span class="line">│   ├── GameJz <span class="comment"># 竞足  弹窗</span></span><br><span class="line">│   ├── GameJzTable <span class="comment"># 竞足  选择反选表格</span></span><br><span class="line">│   ├── GameZc <span class="comment"># 足彩  弹窗</span></span><br><span class="line">│   ├── GameZcTable.vue <span class="comment">#足彩  选择反选表格</span></span><br><span class="line">│   ├── GameAsia <span class="comment"># 小炮亚盘 弹窗</span></span><br><span class="line">│   ├── GameAsiaTable <span class="comment"># 小炮亚盘  选择反选表格</span></span><br><span class="line">│   ├── Header.vue <span class="comment">#统一头部</span></span><br><span class="line">│   ├── Income <span class="comment">#财务统计</span></span><br><span class="line">│   ├── Index.vue <span class="comment">#首页</span></span><br><span class="line">│   ├── Nav1.vue <span class="comment">#首页导航</span></span><br><span class="line">│   ├── PlanHg <span class="comment">#推荐回顾编辑页</span></span><br><span class="line">│   ├── PlanAsia <span class="comment">#小炮亚盘 编辑页</span></span><br><span class="line">│   ├── PlanTotals <span class="comment">#小炮大小盘 编辑页</span></span><br><span class="line">│   ├── PlanJz <span class="comment">#竞足 编辑页</span></span><br><span class="line">│   └── PlanZc <span class="comment">#足彩  编辑页</span></span><br><span class="line">├── main.js </span><br><span class="line">├── pages <span class="comment"># 多页面留用目录</span></span><br><span class="line">├── router </span><br><span class="line">│   └── index.js</span><br><span class="line">└── store </span><br><span class="line">    └── index.js</span><br></pre></td></tr></table></figure><p>自定义模块说明<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">├── ajaxData.js   <span class="comment"># 接口调用封装</span></span><br><span class="line">├── ctLogin.js <span class="comment"># 登录相关</span></span><br><span class="line">├── md5.js </span><br><span class="line">├── profit.js <span class="comment"># 赛事选择校验</span></span><br><span class="line">└── util.js <span class="comment"># 工具类</span></span><br></pre></td></tr></table></figure></p><h3 id="校验算法"><a href="#校验算法" class="headerlink" title="校验算法"></a>校验算法</h3><p>竞彩足球，亚盘，大小盘：<br>只选单场单个玩法的情况下，赔率不能低于1.40!<br>选择最小收益值（每场玩法最低赔率乘积）&gt;理论最小收益(玩法数量乘积)</p><p>足彩推荐：<br>专家推荐胜负14场时，必须推荐14场比赛<br>专家推荐任选9场时，最多推荐14场中的11场比赛<br>专家推荐任选9场时，至少推荐9场比赛<br>选择场数玩法数*2（r9需要算排列组合c9n）&gt;固定金额</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;新浪球通(新浪彩票付费阅读平台)发布流程wiki:&lt;br&gt;&lt;a href=&quot;http://wiki.intra.sina.com.cn/pages/viewpage.action?pageId=164495750&quot; target=&quot;_blank&quot; rel=&quot;noopener
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>前端知识点</title>
-    <link href="http://yoursite.com/2018/03/20/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
-    <id>http://yoursite.com/2018/03/20/前端知识点/</id>
-    <published>2018-03-20T08:05:45.000Z</published>
-    <updated>2018-03-21T05:35:14.157Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="http://www.imooc.com/wenda/detail/254035" target="_blank" rel="noopener">双飞翼布局介绍-始于淘宝UED</a></p><p><a href="http://es6.ruanyifeng.com/#docs/class-extends" target="_blank" rel="noopener">ECMAScript 6 入门</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;&lt;a href=&quot;http://www.imooc.com/wenda/detail/254035&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;双飞翼布局介绍-始于淘宝UED&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://es6.ruanyife
       
     
     </summary>
